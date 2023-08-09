@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C10uld&show_icons=true&theme=rose_pine)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C10uld&show_icons=true&theme=buefy)
 
 <!--
 **C10uld/C10uld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
